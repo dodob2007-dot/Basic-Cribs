@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="200"
+   height="52"
+   viewBox="0 3 200 52"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   sodipodi:docname="logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="true"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:zoom="4.203125"
+     inkscape:cx="43.895911"
+     inkscape:cy="-5.3531599"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Layer 2">
+    <path
+       sodipodi:type="star"
+       style="fill:#ffcc00"
+       id="path19"
+       inkscape:flatsided="true"
+       sodipodi:sides="3"
+       sodipodi:cx="6.3048329"
+       sodipodi:cy="16"
+       sodipodi:r1="7.9089918"
+       sodipodi:r2="3.9544959"
+       sodipodi:arg1="0.51075079"
+       sodipodi:arg2="1.5579483"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="M 13.204461,19.866171 -0.49318368,20.042168 6.2032211,8.0916609 Z"
+       inkscape:transform-center-x="-0.65571013"
+       inkscape:transform-center-y="-3.0760346"
+       transform="matrix(12.90616,0,0,1.5912561,17.283669,-8.7447372)" />
+    <g
+       inkscape:label="Layer 1"
+       inkscape:groupmode="layer"
+       id="layer1"
+       transform="translate(26.412673,15.98219)">
+      <text
+         xml:space="preserve"
+         style="font-size:13.3333px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:34.2602;display:inline;fill:#ffcc00"
+         x="5.3531599"
+         y="27.301115"
+         id="text1" />
+      <text
+         xml:space="preserve"
+         style="font-size:31.6614px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffcc00;stroke-width:5.93651"
+         x="-16.259172"
+         y="35.911724"
+         id="text2"
+         transform="scale(1.0290085,0.97180923)"><tspan
+           sodipodi:role="line"
+           id="tspan2"
+           x="-16.259172"
+           y="35.911724"
+           style="stroke-width:5.93651">Basic Cribs</tspan></text>
+      <rect
+         style="fill:#ffcc00;stroke-width:3.2201"
+         id="rect2"
+         width="176.45308"
+         height="0.63927782"
+         x="-14.913916"
+         y="7.8304667" />
+    </g>
+  </g>
+</svg>
